@@ -1,0 +1,7 @@
+h1{
+    background-color: rgb(88, 168, 192);
+}
+body{
+    background-color: aqua;
+    background-image: -webkit-image-set(url(image/images.jpg));
+}
